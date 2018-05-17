@@ -1,0 +1,11 @@
+/* TEAM */
+    Developer: Serghei Niculaev
+    Site: spam312sn@gmail.com
+    Twitter: spam312sn
+    From: Chisinau, Moldova
+    Location: Riga, Latvia
+/* SITE */
+    Last update: 2018/05/16
+    Language: English
+    Doctype: HTML5
+    IDE: PHPStorm
