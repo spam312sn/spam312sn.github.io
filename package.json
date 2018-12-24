@@ -4,7 +4,7 @@
         "email": "spam312sn@gmail.com"
     },
     "dependencies": {
-        "materialize-css": "^1.0.0-rc.2"
+        "materialize-css": "^1.0.0"
     },
     "description": "Personal web-page",
     "homepage": "https://spam312sn.github.io/",
